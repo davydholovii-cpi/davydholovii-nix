@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Davyd Holovii
 - 👀 I’m interested in small tech improvements for everyday life
-- 📫 You reach me on LinkedIn [Davyd Holovii](https://linkedin.com/in/davyd-holovii)
+- 📫 You reach me on [LinkedIn](https://linkedin.com/in/davyd-holovii)
 
 <!---
 davydholovii-nix/davydholovii-nix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
